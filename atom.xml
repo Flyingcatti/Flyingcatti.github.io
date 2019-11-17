@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Flyingcatti.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-11-17T05:10:28.453Z</updated>
+    <title>记译轨迹</title>
+    <updated>2019-11-17T05:20:07.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Flyingcatti.github.io"/>
     <link rel="self" href="https://Flyingcatti.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>积跬步，至千里</subtitle>
     <logo>https://Flyingcatti.github.io/images/avatar.png</logo>
     <icon>https://Flyingcatti.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 记译轨迹</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Flyingcatti.github.io/post/hello-gridea</id>
