@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Flyingcatti.github.io</id>
     <title>记译轨迹</title>
-    <updated>2020-02-05T14:10:30.640Z</updated>
+    <updated>2020-02-06T02:50:09.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Flyingcatti.github.io"/>
     <link rel="self" href="https://Flyingcatti.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://Flyingcatti.github.io/images/avatar.png</logo>
     <icon>https://Flyingcatti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 记译轨迹</rights>
+    <entry>
+        <title type="html"><![CDATA[The Economist关于新冠小段节选阅读]]></title>
+        <id>https://Flyingcatti.github.io/post/the-economist-guan-yu-xin-guan-xiao-duan-jie-xuan-yue-du</id>
+        <link href="https://Flyingcatti.github.io/post/the-economist-guan-yu-xin-guan-xiao-duan-jie-xuan-yue-du">
+        </link>
+        <updated>2020-02-05T11:24:39.000Z</updated>
+        <content type="html"><![CDATA[<p>最近新型冠状病毒感染的肺炎疫情备受关注，从TE上选了两段研究下：</p>
+<p>A new cornoavirus continued to spread rapidly in China. Several large cities were locked down in Hubei province, whose capital, Wuhan, is where the virus broke out. Streets emptied; people stayed at home. However, Wuhan’s mayor said that 5m people had left the city before the quarantine was imposed: some for their usual Chinese New Year trips, others to escape the virus. Some airlines cancelled flights to and from China.<br>
+试译：新型冠状病毒持续在中国快速扩散，湖北省封锁了包括武汉在内的几个大城市，武汉是疫情暴发地。街道空空荡荡，人们都呆在家里。然而，武汉的市长称在封城前已有500万人离开了这座城市：一些人踏上了往常的春运归途，另一些人是为了逃离病毒。部分航空公司也取消了往返于中国的航班。</p>
+<p>划重点：<br>
+1.新型冠状病毒：a new cornoavirus<br>
+2.lock down:封锁<br>
+3.break out[v]=outbreak[n] 暴发<br>
+4.empty这里做动词，被清空<br>
+5.impose a quarantine, impose表实施通常指政府强制实施，比如说impose a fine，处以罚款<br>
+quarantine今天在小站上看到说14世纪中期威尼斯为防止当时黑死病的传入，强制要求所有来自疫<br>
+区的船只在港口外停泊40天后才允许靠岸。quarantine源自意大利语quarantina（意为40左右），后被用作‘隔离’的意思。<br>
+6.some for their usual Chinese New Year trips, others to escape the virus 这句觉得妙的<br>
+地方在于两个介词'for', 'to',都表目的。</p>
+<p>Many countries, including America, Britain and Japan, took steps to evacuate their citizens from China. Some businesses scaled back or closed their operations in the country. Cases of Wuhan virus have been detected outside China. Human-to-Human transmissions were reported in Germany, Japan, Vietnam and Taiwan. Stock markets shivered when it became clear that the disease is spreading rapidly; the s&amp;p 500 had its worst day since October.<br>
+试译：美国、英国、日本等许多国家采取了措施撤离在华本国人员。一些企业缩减或关闭了在华业务。中国之外的其他地方也发现了感染新型冠状病毒的病例。据报道，德国、日本、越南和台湾出现了人传人病例。股市因病毒明显加快扩散产生波动；标普500指数遭遇了自10月以来走势最低谷。</p>
+<ol>
+<li>take steps to 采取措施 steps可用measure、efforts替换</li>
+<li>evacuate：排出抽空、疏散、撤离 这个词去掉e，vacuate也是抽空的意思</li>
+<li>scale back：scale有规模的意思，将原来的规模撤回来，意为缩减，缩小，虽然说减少有很多表达，这个第一次见。</li>
+<li>Human-to-Human transmissions， 人传人这个表达有连字符，transmission传送、传输、传播，想起艾滋病的传播途径之一blood transmission</li>
+<li>shiver：颤抖，哆嗦，股市抖一抖，波动必然有，下面就提到标普500度过了最糟糕的一天。TE好用拟人手法，新表达get</li>
+</ol>
+<p>（英文原文引用自The Economist)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我写它的原因]]></title>
         <id>https://Flyingcatti.github.io/post/wo-xie-ta-de-yuan-yin</id>
