@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Flyingcatti.github.io</id>
     <title>记译轨迹</title>
-    <updated>2020-02-08T09:40:57.609Z</updated>
+    <updated>2020-02-10T13:46:05.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Flyingcatti.github.io"/>
     <link rel="self" href="https://Flyingcatti.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://Flyingcatti.github.io/images/avatar.png</logo>
     <icon>https://Flyingcatti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 记译轨迹</rights>
+    <entry>
+        <title type="html"><![CDATA[TE新中东和平协议节选]]></title>
+        <id>https://Flyingcatti.github.io/post/te-xin-zhong-dong-he-ping-xie-yi-jie-xuan</id>
+        <link href="https://Flyingcatti.github.io/post/te-xin-zhong-dong-he-ping-xie-yi-jie-xuan">
+        </link>
+        <updated>2020-02-10T10:21:11.000Z</updated>
+        <content type="html"><![CDATA[<p>巴以冲突有着深远的历史渊源，这可让美国费了不少心，花了几年起草了个新中东和平计划。可是巴勒斯坦对这一“世纪计划”并不买账，节选了两段TE的文章，研究下：</p>
+<p>The prospect of peace between Israel and the Palestinians has grown so dim, it is easy to forget that President Donald Trump’s efforts to end the conflict began with much promise. The dealmaker-in-chief vowed to bring fresh thinking to the decades-old feud. “As with any successful negotiation, both sides will have to make compromises,” he told Binyamin Netanyahu, Israel’s prime minister, in 2017. Mr Trump’s meeting with Mahmoud Abbas, a few months later, ended with the Palestinian president gushing:“With you we have hope.”<br>
+试译：以色列和巴勒斯坦的和平前景变得非常黯淡，人们很容易就忘了特朗普总统为结束巴以冲突一开始做的诸多承诺。美国作为主要的劝和方声称要为解决长达几十年的巴以敌对状态提供新的方案。“任何成功的谈判都需要双方做出妥协，” 特朗普在2017年对以色列总理本雅明·内塔尼亚胡如是说。几个月后，特朗普会见巴勒斯坦总统马哈茂德·阿巴斯，阿巴斯对此盛赞称有美国巴就有希望。</p>
+<p>划重点：</p>
+<ol>
+<li>dim 基本意是昏暗、朦胧，这里是having little prospect of favorable result or outcome ，前景不明朗（第一句颇有些讽刺，巴以和平局势并不乐观，TP放话要促成和谈，眼下巴对新中东和平计划的回应正是打脸的时候）</li>
+<li>dealmaker-in-chief TE文章中对于同一事物通常有好几种替换说法，这里指美国，表明了美国的角色</li>
+<li>feud： a mutual enmity，hostility. 敌对，仇视</li>
+<li>gush:to make an effusive display of affection or enthusiasm 过分称赞(2017年气氛良好，双方态度关系没那么紧张，为下文对比做铺垫)</li>
+</ol>
+<p>What followed, though, was neither bold thinking nor any demand for sacrifices on both sides. Rather, Mr Trump showered Mr Netanyahu, a fellow populist, with political gifts. He recognised the disputed holy city of Jerusalem as Israel’s capital. His State Department declared that Israeli settlements in the West Bank are lawful. (Few legal scholars agree.) Mr Trump cut aid to the Palestinians, even for health and education, and closed their diplomatic mission in Washington. All this delighted his pro-Israel supporters back home, but enraged Palestinians.<br>
+试译：但是接下来美国并没有提出大胆的方案，巴以双方也没有做出妥协。反之，特朗普给同为民粹主义者的的内塔尼亚胡送去了大量的政治礼物。特朗普承认了备受争议的圣城耶路撒冷为以色列首都。美国国务院宣布以色列在约旦河西岸定居点合法。（少数法律学者赞同。）特朗普切断了对巴勒斯坦的援助，甚至包括健康和教育援助，关闭了在华盛顿的巴方外交办事处。这一系列举措让美国的以色列拥护者为之振奋，却激怒了巴勒斯坦人。</p>
+<p>划重点：<br>
+5. shower 这个词很熟悉，但是用的是另一个意思 to give in abundance大量的给予，shower有淋浴、阵雨的意思，这样联想shower someone with gifts就好理解了。美剧中经常看到bridal shower和baby shower，就是礼物赠送会。bridal shower：准新娘送礼会。<br>
+6. Jerusalem 耶路撒冷 三大宗教的圣城（基督教、犹太教和伊斯兰教），为巴勒斯坦和以色列共同的首都，也是巴以冲突的焦点。<br>
+7. State Department:美国国务院 首长为Secretary of State 中国国务院The State Council 首长Premier<br>
+8. enrage: fill with rage,充满怒火 从前面的delight可猜出此含义<br>
+（英文部分来自The Economist)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界人口日汉英练习]]></title>
         <id>https://Flyingcatti.github.io/post/shi-jie-ren-kou-ri-han-ying-lian-xi</id>
