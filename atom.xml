@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Flyingcatti.github.io</id>
     <title>记译轨迹</title>
-    <updated>2020-02-10T13:55:22.058Z</updated>
+    <updated>2020-02-11T09:08:35.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Flyingcatti.github.io"/>
     <link rel="self" href="https://Flyingcatti.github.io/atom.xml"/>
@@ -10,6 +10,54 @@
     <logo>https://Flyingcatti.github.io/images/avatar.png</logo>
     <icon>https://Flyingcatti.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 记译轨迹</rights>
+    <entry>
+        <title type="html"><![CDATA[世界卫生组织总干事谭德塞在新闻发布会上的发言（英文）]]></title>
+        <id>https://Flyingcatti.github.io/post/shi-jie-wei-sheng-zu-zhi-zong-gan-shi-tan-de-sai-zai-xin-wen-fa-bu-hui-shang-de-fa-yan-ying-wen</id>
+        <link href="https://Flyingcatti.github.io/post/shi-jie-wei-sheng-zu-zhi-zong-gan-shi-tan-de-sai-zai-xin-wen-fa-bu-hui-shang-de-fa-yan-ying-wen">
+        </link>
+        <updated>2020-02-11T07:57:59.000Z</updated>
+        <content type="html"><![CDATA[<p>IHR Emergency Committee on Novel Coronavirus (2019-nCoV)<br>
+💧IHR International Health Regulations 《国际卫生条例》<br>
+💧IHR Emergency Committee 《国际卫生条例》突发事件委员会</p>
+<p>WHO HQ, Geneva, Switzerland 30 January 2020<br>
+💧Geneva 日内瓦，瑞士联邦第二大城市，WHO和WTO总部所在地。<br>
+💧Switzerland 瑞士首都伯尔尼Berne<br>
+Good evening to everyone in the room, and to everyone online.</p>
+<p>Over the past few weeks, we have witnessed the emergence of a previously unknown pathogen, which has escalated into an unprecedented outbreak, and which has been met by an unprecedented response.<br>
+💧pathogen：a specific causative agent (such as a bacterium or virus) of disease 病原体<br>
+'agent'在这里是媒介的意思<br>
+💧escalate into...上升到  平常坐地铁听到的escalator是自动扶梯，escalate有增加、上升、升级的意思<br>
+💧outbreak 暴发</p>
+<p>As I have said repeatedly since my return from Beijing, the Chinese government is to be congratulated for the extraordinary measures it has taken to contain the outbreak, despite the severe social and economic impact those measures are having on the Chinese people.<br>
+💧contain：check, halt 控制，防止……蔓延</p>
+<p>We would have seen many more cases outside China by now – and probably deaths – if it were not for the government’s efforts, and the progress they have made to protect their own people and the people of the world.</p>
+<p>The speed with which China detected the outbreak, isolated the virus, sequenced the genome and shared it with WHO and the world are very impressive, and beyond words. So is China’s commitment to transparency and to supporting other countries.<br>
+💧sequence the genome 基因组测序<br>
+💧beyond words 无以言表</p>
+<p>In many ways, China is actually setting a new standard for outbreak response. It’s not an exaggeration.</p>
+<p>I also offer my profound respect and thanks to the thousands of brave health professionals and all frontline responders, who in the midst of the Spring Festival, are working 24/7 to treat the sick, save lives and bring this outbreak under control.<br>
+💧offer respect to sb 向某人致以敬意<br>
+💧in the midst of 在……期间<br>
+💧work 24/7=work around the clock 不眠不休，日以继夜</p>
+<p>Thanks to their efforts, the number of cases in the rest of the world so far has remained relatively small.</p>
+<p>There are now 98 cases in 18 countries outside China, including 8 cases of human-to-human transmission in four countries: Germany, Japan, Viet Nam and the United States of America.</p>
+<p>So far we have not seen any deaths outside China, for which we must all be grateful. Although these numbers are still relatively small compared to the number of cases in China, we must all act together now to limit further spread.</p>
+<p>The vast majority of cases outside China have a travel history to Wuhan, or contact with someone with a travel history to Wuhan.</p>
+<p>We don’t know what sort of damage this virus could do if it were to spread in a country with a weaker health system.</p>
+<p>We must act now to help countries prepare for that possibility.</p>
+<p>For all of these reasons, I am declaring a Public Health Emergency of International Concern over the global outbreak of novel coronavirus.<br>
+💧public health emergency of international concern 简称PHEIC 国际公共卫生紧急事件</p>
+<p>The main reason for this declaration is not because of what is happening in China, but because of what is happening in other countries.</p>
+<p>Our greatest concern is the potential for the virus to spread to countries with weaker health systems, and which are ill-prepared to deal with it.<br>
+💧 ill-prepared 准备不足 这种形式的短语还有ill-natured, ill-tempered,都是脾气差的意思</p>
+<p>Let me be clear: this declaration is not a vote of no confidence in China. On the contrary, WHO continues to have confidence in China’s capacity to control the outbreak.<br>
+💧a vote of confidence:a statement or action that shows continuing support and approval for someone  支持，a vote of no confidence 不支持<br>
+💧have confidence in sth</p>
+<p>总体而言，世卫作为有大局观的国际组织对中国新冠肺炎疫情态度很中肯，既表达了感谢也有信心。同时，强调了希望通过将此次暴发升级为PHEIC，各方一道努力帮助有着薄弱卫生体系的国家能够更好应对疫情。<br>
+中国人民也有信心打赢这场疫情防控阻击战，加油！</p>
+<p>（英文来自中华人民共和国驻古晋总领事馆官网）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TE新中东和平协议节选]]></title>
         <id>https://Flyingcatti.github.io/post/te-xin-zhong-dong-he-ping-xie-yi-jie-xuan</id>
